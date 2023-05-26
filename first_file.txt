@@ -1,4 +1,8 @@
-Colors
+Rainbow Colors
 VIBGYOR
 Violet
-Indigo
+Purple
+Red
+Green
+Yellow
+
